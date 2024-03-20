@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public sealed class Program
+{
+    public static void Main()
+    {
+        System.Console.WriteLine("Hi,.NET");
+    }
+}
